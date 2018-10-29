@@ -1,0 +1,4 @@
+# GlideGifLibV4
+glide v4版本的 FrameSequenceDrawable解码lib
+demo加lib
+使用方法同GlideGifLib
